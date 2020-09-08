@@ -1,0 +1,1 @@
+module "github.com/dilless/the-way-to-go-examples"
